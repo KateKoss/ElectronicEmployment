@@ -1,0 +1,11 @@
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Курсовая\MyCourseWork\MyCourseWork\bin\Debug\MyCourseWork.exe.config
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\bin\Debug\MyCourseWork.exe.config
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\bin\Debug\Employees.mdb
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\bin\Debug\MyCourseWork.exe
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\bin\Debug\MyCourseWork.pdb
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.csprojResolveAssemblyReference.cache
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.Properties.Resources.resources
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.csproj.GenerateResource.Cache
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.exe
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.pdb
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.DatabaseEditing.resources

@@ -1,0 +1,16 @@
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\bin\x86\Debug\MyCourseWork.exe.config
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\bin\x86\Debug\Employees.mdb
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\bin\x86\Debug\MyCourseWork.exe
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\bin\x86\Debug\MyCourseWork.pdb
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\obj\x86\Debug\MyCourseWork.csprojResolveAssemblyReference.cache
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\obj\x86\Debug\MyCourseWork.DatabaseEditing.resources
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\obj\x86\Debug\MyCourseWork.Properties.Resources.resources
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\obj\x86\Debug\MyCourseWork.csproj.GenerateResource.Cache
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\obj\x86\Debug\MyCourseWork.exe
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\obj\x86\Debug\MyCourseWork.pdb
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\obj\x86\Debug\MyCourseWork.AboutProgramm.resources
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\obj\x86\Debug\MyCourseWork.HomePage.resources
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\obj\x86\Debug\MyCourseWork.AuthorizationAdmin.resources
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\obj\x86\Debug\MyCourseWork.AuthorizationUzer.resources
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\obj\x86\Debug\MyCourseWork.Registration.resources
+C:\Users\Катя\Documents\Programming\SEMESTR_4\Course work\MyCourseWork\MyCourseWork\obj\x86\Debug\MyCourseWork.PersonalAccount.resources
